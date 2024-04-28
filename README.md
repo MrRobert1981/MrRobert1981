@@ -2,7 +2,7 @@
 
 <h1 align="center">Roberto Manuel García Cinta</h1>
 
-## (estudieante de DAW en la UAX)
+<h2 align="center">estudieante de DAW en la UAX</h2>
 
 Aquí va una descripción corta del proyecto.
 
