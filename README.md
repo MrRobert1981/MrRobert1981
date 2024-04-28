@@ -1,8 +1,18 @@
 ![Texto alternativo de la imagen](images/Cabecera.jpg)
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap" rel="stylesheet">
+
+<style>
+  h1 {
+    font-family: "Lugrasimo", cursive;
+  }
+</style>
+
 <h1 align="center">Roberto Manuel García Cinta</h1>
 
-<h2 align="center">estudieante de DAW en la UAX</h2>
+<h2 align="center">( Estudieante de DAW en la UAX )</h2>
 
 Aquí va una descripción corta del proyecto.
 
