@@ -14,9 +14,10 @@ Técnico informático con amplia experiencia en el ensamblado, actualización, m
 
 ### **Proyectos**
 
-- [Reto2 - Entornos de desarrollo](https://www.example.com](https://github.com/MrRobert1981/retogit)
+[Reto2 - Entornos de desarrollo](https://www.example.com](https://github.com/MrRobert1981/retogit)
 
 ![Calendario](images/Salida para 12-2023.png)
+
 <!--
 **MrRobert1981/MrRobert1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
