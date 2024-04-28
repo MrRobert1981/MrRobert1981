@@ -1,6 +1,8 @@
-# Título del Proyecto
+![Texto alternativo de la imagen](images/Cabecera.jpg)
 
-![Texto alternativo de la imagen](ruta/a/la/imagen.jpg)
+# Roberto Manuel García Cinta
+
+## (estudieante de DAW en la UAX)
 
 Aquí va una descripción corta del proyecto.
 
