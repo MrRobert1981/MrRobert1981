@@ -8,8 +8,10 @@
 
 Técnico informático con amplia experiencia en el ensamblado, actualización, mantenimiento y reparación de equipos informáticos, redes y periféricos. Con conocimientos en sistemas operativos de la familia Microsoft y MacOs lenguajes como Java, C#, SQL, JavaScript, HTML5 y CSS3. Administrador y socio fundador de una microempresa informática (franquicia APP Informática) durante ocho años. Persona responsable, comprometida, honrada y comunicativa con capacidades de trabajo en equipo, dotes de mando, resolución de conflictos y don de gentes.
 
-### ***Proyectos*
 ---
+
+### **Proyectos**
+
 
 <!--
 **MrRobert1981/MrRobert1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
