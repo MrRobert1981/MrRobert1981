@@ -1,6 +1,6 @@
 ![Texto alternativo de la imagen](images/Cabecera.jpg)
 
-# Roberto Manuel García Cinta
+<h1 align="center">Roberto Manuel García Cinta</h1>
 
 ## (estudieante de DAW en la UAX)
 
